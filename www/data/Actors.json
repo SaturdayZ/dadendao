@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"鄭小天","characterIndex":0,"characterName":"鄭小天","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"鄭小天","traits":[],"initialLevel":1,"maxLevel":99,"name":"鄭小天","nickname":"小天","note":"","profile":"來自大嶝島的小孩，愛幻想，具正義感"},
+{"id":6,"battlerName":"Package2_7","characterIndex":6,"characterName":"鄭萬娘2","classId":4,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_People2","traits":[],"initialLevel":50,"maxLevel":50,"name":"鄭萬娘","nickname":"姑婆祖","note":"","profile":"六百年前，大嶝姑婆祖鄭萬娘14歲失父，16歲亡母。為撫養幼弟，守身不嫁，後世以此事傳為佳話，歌功頌德"},
+{"id":7,"battlerName":"Sangokushi05","characterIndex":4,"characterName":"Actor_sangoku01","classId":3,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Sangokushi1","traits":[],"initialLevel":50,"maxLevel":50,"name":"林希元","nickname":"茂貞","note":"","profile":"為官多年，剛正不痾，幾百年前曾過封印烏鴉邪神"},
+{"id":8,"battlerName":"Package1_7","characterIndex":2,"characterName":"SF_People2","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"SF_People2","traits":[],"initialLevel":50,"maxLevel":50,"name":"葉飛","nickname":"啟亨","note":"","profile":"是一名軍事家，政治家，八二三炮戰期間總指揮,\n在中國革命戰爭史上，葉飛是傳奇式的英雄。"},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
